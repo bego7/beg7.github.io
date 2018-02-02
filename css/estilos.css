@@ -1,0 +1,344 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: black;
+  line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3,.bgimg-7{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  position: relative;
+  background-image: url("img/portada2.jpg");
+  min-height: 100%;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("img/bgimg-2.jpg");
+  min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+  background-image: url("img/bgimg-2.jpg");
+  min-height: 400px;
+}
+.bgimg-7 {
+  background-image: url("img/nosotros2.jpg");
+  min-height: 400px;
+  overflow: hidden;
+
+}
+
+p{
+  color: black;
+}
+
+.w3-large >i{
+  color: black;
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-7 {
+    background-attachment: scroll;
+  }
+}
+.w3-button.w3-padding-large{
+  background-color: black;
+}
+h2.w3-center{
+  color: black;
+  /* margin-bottom: 10px;*/
+}
+
+.fa-2x{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.w3-bar-item {
+  color: white;
+}
+.w3-bar-item:hover{
+  color:white;
+}
+.logo{
+  position:relative;
+  left:2%;    
+  width: 98%;
+  height:98%;
+}
+
+.w3-button{
+  color: white;
+}
+/*.transparente{
+    background:transparent;
+}
+.image {
+    position: relative;
+}
+.image img {
+    width: 100%;
+    vertical-align: top;
+}
+.image:after {
+    cursor: pointer;
+    content: '\A';
+    position: absolute;
+    width: 100%; height:102%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity: 0;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    color:white;
+}
+.image:hover:after {
+    opacity: 1;
+}
+h1 h3{
+    visibility: hidden;
+    }*/
+    a:visited{
+      color:white;
+    }
+    @media screen and (max-width:1000px){
+      h1,h4{
+        visibility: hidden;
+      }
+      h2{
+        font-size: 20px;
+      }
+      p{
+        overflow: hidden;
+      }
+    }
+
+    @media screen and (max-width:600px){
+      a:visited{
+        color:black;
+      }
+    }
+
+    @media screen and (min-width:760px){
+      h1{
+        position: absolute;
+        left:60%;
+        top:70%;
+        color:white;
+      }
+      h4{
+        position: absolute;
+        left:60%;
+        top:80%;
+        color:white; 
+        font-weight: bold;
+        margin-top: 0px;
+      }
+
+    }
+    .image{
+      -webkit-animation-duration:1s ;
+      -o-animation-duration:1s;
+      -webkit-animation-delay:100ms ;
+      -o-animation-delay:100ms;   
+    }
+    .is-hidden{
+      opacity: 0;
+    }
+    #about {
+      background-image: url("img/nosotros.jpg");
+
+    }
+    #loguito{
+      -webkit-animation-duration:1s ;
+      -o-animation-duration:1s;
+      -webkit-animation-delay:5ms ;
+      -o-animation-delay:5ms;
+    }
+
+    #animable{
+     -webkit-animation-duration:1s ;
+     -o-animation-duration:1s;
+     -webkit-animation-delay:1000ms ;
+     -o-animation-delay:1000ms;
+
+   }
+   .fa-briefcase{
+    margin-top: 5%;
+  }
+  .contenedor{
+    position: relative;
+    text-align: center;
+  }
+  .cente#563f46{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 40px;
+  }
+
+
+  /*hover*/
+
+  .w3-col{
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+  }
+  .w3-col:hover .post-s{
+    width: 100%;
+  }
+  .we-col img {
+    display: block;
+    width: 100%;
+    height: 102%;
+  }
+  .post-s{
+    width: 0px;
+    height: 102%;
+    background: rgba(51,47, 47, 0.71);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: 0.7s ease;
+  }
+  .post-s h2{
+    color: white;
+    font-size: 30px;
+    border: 6px solid white;
+    padding: 10px 30px;
+  }
+  p{
+
+    text-align: center;
+    color:white;
+     /*border: 2px solid white;
+     background-color: rgba(255, 255, 255, 0.3);*/
+     overflow: hidden;
+     font-size: 20px;
+     width: 90%;
+     position: absolute;
+     top:50%;
+     margin:3%;
+     bottom:10%;
+     transform: translate(-50%, -50%);
+   }
+   .icono{
+    margin:10px;
+    padding: 10px;
+    position:absolute;
+    color:white;
+    font-size:60px;
+    left:38%;
+    top:30%;
+  }
+  #animable2{
+   -webkit-animation-duration:1s ;
+   -o-animation-duration:1s;
+   -webkit-animation-delay:1000ms ;
+   -o-animation-delay:1000ms;
+
+ }
+
+ .fa{
+  color:white;
+}
+h5{
+  padding:2%;
+  /* border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.3);*/
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  position:absolute;
+  color:white;
+  font-size:30px;
+  text-align: center;
+    /*left:32%;
+    top:15%;*/
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .opacidad{
+    background: rgba(51,47, 47, 0.71);
+  }
+  .arrow{
+    color: black;
+  }
+  .chiquito{
+    color:black;
+  }
+  .visiDb{
+    display: none;
+  }
+  .glyphicon-remove{
+    left:30%;
+    cursor: pointer;
+    font-size:20px;
+  }
+
+  .fondo-login{
+    position: relative;
+    background: #563f46; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #563f46 ,  #c8c3cc); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #563f46,  #c8c3cc); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #563f46,  #c8c3cc); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #563f46 ,  #c8c3cc); /* Standard syntax */
+    width: 100%;
+    height:100%;
+    padding:0;
+    margin:0;
+  }
+
+  .espacio{
+    position: absolute;
+    left:calc(50% - 400px);
+    top:10%;
+    width:400px;
+    height:500px;
+    background-image: url("img/suculentas2.jpg");
+    background-repeat: no-repeat;
+  }
+  .formato{
+    position: absolute;
+    left:calc(50%);
+    top:10%;
+    width:400px;
+    height:500px;
+    background-color:white;
+  }
+
+  .formato p{
+    position: absolute;
+    left:48%;
+    top:27%;
+    color:black;
+    font-weight: 900px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+  }
+
+

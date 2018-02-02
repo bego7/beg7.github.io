@@ -1,0 +1,1543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"c",
+				"catalogo"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"s",
+				"startRange"
+			],
+			[
+				"st",
+				"startRange"
+			],
+			[
+				"a",
+				"answers"
+			],
+			[
+				"r",
+				"results"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bakgr",
+				"background-color"
+			],
+			[
+				"se",
+				"_SERVER"
+			],
+			[
+				"prnt",
+				"print_r"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"time",
+				"timeStamp2"
+			],
+			[
+				"add",
+				"addNumbers"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"Pe",
+				"Pet"
+			],
+			[
+				"pet",
+				"PetShop"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"co",
+				"codeNumber"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"t",
+				"tablero"
+			],
+			[
+				"S",
+				"Scanner"
+			],
+			[
+				"next",
+				"nextToken"
+			],
+			[
+				"jugad",
+				"jugador2"
+			],
+			[
+				"juga",
+				"jugador1"
+			],
+			[
+				"imr",
+				"imprimirMatriz"
+			],
+			[
+				"ind",
+				"indiceX"
+			],
+			[
+				"indice",
+				"indiceX"
+			],
+			[
+				"po",
+				"posJugX"
+			],
+			[
+				"imp",
+				"imprimirMatriz"
+			],
+			[
+				"impri",
+				"imprimirLaberinto"
+			],
+			[
+				"inic",
+				"inicio2"
+			],
+			[
+				"ju",
+				"jugador1"
+			],
+			[
+				"PO",
+				"posjugY"
+			],
+			[
+				"JU",
+				"JugadorGato"
+			],
+			[
+				"JUG",
+				"jugador1"
+			],
+			[
+				"jug",
+				"jugador2"
+			],
+			[
+				"SC",
+				"sc"
+			],
+			[
+				"in",
+				"inicio"
+			],
+			[
+				"get",
+				"getColumna"
+			],
+			[
+				"impr",
+				"imprimirResultados"
+			],
+			[
+				"mover",
+				"moverJugador"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"GET",
+				"getPos"
+			],
+			[
+				"JUGAD",
+				"jugador"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Jug",
+				"Jugador"
+			],
+			[
+				"Juga",
+				"jugador"
+			],
+			[
+				"p",
+				"Posicion"
+			],
+			[
+				"inte",
+				"intentos"
+			],
+			[
+				"arr",
+				"arrC"
+			],
+			[
+				"new",
+				"newDen"
+			],
+			[
+				"de",
+				"denominator"
+			],
+			[
+				"den",
+				"denominatorNew"
+			],
+			[
+				"nume",
+				"numeratorNew"
+			],
+			[
+				"pun",
+				"puntoActual"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"setIn",
+				"setIntervalo"
+			],
+			[
+				"slide",
+				"slideShow"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"Ca",
+				"cajaRoja"
+			],
+			[
+				"di",
+				"divVistaPrevia"
+			],
+			[
+				"div",
+				"divPreloader"
+			],
+			[
+				"ca",
+				"cambiarColor"
+			],
+			[
+				"CA",
+				"cambiarColor"
+			],
+			[
+				"tes",
+				"teslaView"
+			],
+			[
+				"h3",
+				"h3Dinamico"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"ea",
+				"ease-in-out"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"BR",
+				"br"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"arre",
+				"arregloInts2"
+			],
+			[
+				"arreg",
+				"arreglo2"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"elige",
+				"eligeTopping"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"D",
+				"DarkRoast"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"cen",
+				"align-content"
+			],
+			[
+				"twee",
+				"tweets"
+			],
+			[
+				"tw",
+				"Tweet"
+			],
+			[
+				"sep",
+				"separarPalabras"
+			],
+			[
+				"nex",
+				"nextLine"
+			],
+			[
+				"b",
+				"boolean"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"u",
+				"usuarios"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"HE",
+				"HEADER\tTag"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"aligm",
+				"align-items"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"imprime",
+				"imprimePoligonos"
+			],
+			[
+				"Lo",
+				"ListaPuntos"
+			],
+			[
+				"v",
+				"Vertice"
+			],
+			[
+				"Lista",
+				"ListaPoligonos"
+			],
+			[
+				"L",
+				"ListaPuntos"
+			],
+			[
+				"Lis",
+				"ListaPoligonos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 3009,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/index.html",
+			"settings":
+			{
+				"buffer_size": 438,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10076,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Bego/Desktop/ColorChooser/src/colorchooser/ColorChooser.java",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 4789,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "biohuaca_sitio_171106.sql",
+			"settings":
+			{
+				"buffer_size": 30368056,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "CREATE TABLE Perro(\n    idAuto int(11),\n    nombreAuto int(11),\n    A/C varchar(10),\n    ID_dueno int(11),\n    PRIMARY KEY(ID_perro),\n    FOREIGN KEY (ID_dueno)REFERENCES Dueno(ID_dueno),\n    FOREIGN KEY (ID_raza)REFERENCES Raza(ID_raza)\n)ENGINE =innoDB DEFAULT CHARSET =LATIN1;\n \nCREATE TABLE Dueno(\n    ID_dueno int(11),\n    telefono int(11),\n    nombre varchar(25),\n    PRIMARY KEY(ID_dueno)\n)ENGINE =innoDB DEFAULT CHARSET =LATIN1;\n \nCREATE TABLE Raza(\n    ID_raza int(11),\n    raza varchar(30),\n    PRIMARY KEY(ID_raza)\n)ENGINE =innoDB DEFAULT CHARSET =LATIN1;\nINSERT INTO Perro(ID_Perro,ID_raza,nombre,ID_dueno)\n \nINSERT INTO Raza(ID_raza,raza)\n            VALUES(1,\"chihuahua\");\nINSERT INTO Dueno(ID_dueno,telefono,nombre)\n            VALUES(1,9512287161,\"Bego\");\nINSERT INTO Perro(ID_Perro,ID_raza,nombre,ID_dueno)\n            VALUES(1,1,\"rosita\",1);\n \nINSERT INTO (ID_raza,raza)\n            VALUES(2,\"corgi\");\nINSERT INTO Dueno(ID_dueno,telefono,nombre)\n            VALUES(2,2222287162,\"Montiel\");\n \nINSERT INTO autoTable (idAuto,nombreAuto,AC)\n            VALUES(2,\"pontiac\",1);\n \n \n// \n \nselect\n    Perro.ID_perro, \n    Perro.nombre,\n    Raza.raza\nfrom\n    Perro,\n    Raza \nwhere\n    Raza.ID_raza = Perro.ID_raza;\n \n// seleccione tambien el nombre del dueño\nselect\n    Perro.ID_perro, \n    Perro.nombre,\n    Raza.raza,\n    Dueno.nombre as dueno\nfrom\n    Perro,\n    Raza,\n    Dueno \nwhere\n    Raza.ID_raza = Perro.ID_raza AND\n    Dueno.ID_dueno =Perro.ID_dueno;\n \n \n \n+----------+---------+-----------+\n| ID_perro | nombre  | raza      |\n+----------+---------+-----------+\n|        1 | rosita  | chihuahua |\n|        2 | juanito | corgi     |\n+----------+---------+-----------+\n2 rows in set (0.07 sec)\n\n\n\nCREATE TABLE autoTable(\n    idAuto int(11),\n    nombreAuto varchar(50),\n    AC varchar(50),\n    PRIMARY KEY(idAuto)\n)ENGINE =innoDB DEFAULT CHARSET =LATIN1;\n\n\n",
+			"file": "/C/Users/Bego/Desktop/WEB/bases de datos/ejemplo perros",
+			"file_size": 1960,
+			"file_write_time": 131545517450307311,
+			"settings":
+			{
+				"buffer_size": 1875,
+				"line_ending": "Windows",
+				"name": "1"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/autos2/index.php",
+			"settings":
+			{
+				"buffer_size": 1759,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/autos2/database.php",
+			"settings":
+			{
+				"buffer_size": 800,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Generating public/private rsa key pair.\nEnter passphrase (empty for no passphrase): \nEnter same passphrase again: \nYour identification has been saved in /home/biohuaca/.ssh/id_rsa.\nYour public key has been saved in /home/biohuaca/.ssh/id_rsa.pub.\nThe key fingerprint is:\neb:41:84:04:36:81:04:a4:12:e2:ec:55:0f:b2:4a:39 \nThe key's randomart image is:\n+--[ RSA 4096]----+\n|=+.o==.          |\n|=.o.+oo.         |\n|oE o  ...        |\n|+ +    .         |\n| o      S        |\n|       . .       |\n|        o        |\n|       . .       |\n|        .        |\n+-----------------+",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Windows",
+				"name": "Generating public/private rsa key pair."
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/BiohuacalPhp/index.php",
+			"settings":
+			{
+				"buffer_size": 1829,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/BiohuacalPhp/update.php",
+			"settings":
+			{
+				"buffer_size": 3689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/autos2/create.php",
+			"settings":
+			{
+				"buffer_size": 2665,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/BiohuacalPhp/create.php",
+			"settings":
+			{
+				"buffer_size": 2665,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEA5dW91dZcQRRJKleqcuTM8LZ9mGmSOOAUwmGu/XmHvnerGkTJ6+HdfnqDwoktB4shDbLNw/D9frZU6tgChgAO4p4bdD+KdgXkSORWdZZAYGmNaFsESoxsMcZzVHcdfqJcIZH5U8OwalqaKPuGO51Y1fIDqFl5eUqznjx66me+dGD9ahcYte+2xREUx4XO+EB/pUK0D6pls4REsNHGWlauZ+Di/aQeFM5aMAgVKyegOr3MvPk2KDGcQ9NIcREInmyyKUAlfatdwWzZ1QMb67wjQvd2KayVYPQB4WjDVazWEuvmuTx9mAEBeF+9o7eEMRLXzv7H8Y+rG8VGmTW0nAD7xflHeL7f0c1IAVdB/aecHdX6Y/uf35yfWLdWGPNbE3GWplwBY/TPObfBOIcusXg8nNdnwHFXnW0cjsVKjE7CuYgtq/6Idu7q0o7zdnXeOKRlmET+TG3lPS0P6c2hoP7G5Xn6H+E8P5KhcZiz8hUPHYhyjUGz7gpUgDr6OP0VrLE0quM0pToGHFUZf/wivfNIgXakdIzZ0pd3CvHqGJo4Z3tuMjv5TSVHlizpjEBqEHOnXVm6DnObW7G9xNvNRWPypheSTwvSv1Q31T4/9ANTHvxoVSpBpOTN856FGy9Jh0KlRYe3xmvsIYrJ6tNJjNwcmyrJ9W1ip8+lwBxbxKSiIp8=\nDescargar clave\n",
+			"settings":
+			{
+				"buffer_size": 737,
+				"line_ending": "Windows",
+				"name": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEA5dW91dZcQRRJKl"
+			}
+		},
+		{
+			"contents": "#target{\n\t\n}",
+			"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/js/estilos.css",
+			"file_size": 0,
+			"file_write_time": 131544152634900942,
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Windows",
+				"name": "estilos.css"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 1168.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ii",
+				"Snippet: if"
+			],
+			[
+				"I",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"i\t",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 1248.0
+	},
+	"console":
+	{
+		"height": 448.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Bego/Documents/Tareas Tec/primer semestre/Progra/Fundamentos/Primos.java",
+		"/C/xampp/htdocs/BiohuacalPhp/index.php",
+		"/C/xampp/htdocs/Biohuacal php/database.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/applications.html",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/estilos.css",
+		"/C/Users/Bego/Downloads/database.php",
+		"/C/Users/Bego/Downloads/producto.model2.php",
+		"/C/Users/Bego/Downloads/usuario.model.php",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/index.html",
+		"/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/js/scripts.js",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/botones que rotan de colores/estilos.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/botones que rotan de colores/index.html",
+		"/C/Users/Bego/Desktop/WEB/AnimatedHeaderBackgrounds/index.html",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/js/scripts.js",
+		"/C/Users/Bego/Desktop/WEB/Final piojo web/cuestionario.html",
+		"/C/Users/Bego/Desktop/WEB/Final piojo web/introduccion.html",
+		"/C/Users/Bego/Desktop/WEB/Final piojo web/gulpfile.js",
+		"/C/Users/Bego/Desktop/WEB/animaciones/animacion1.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Hover moradito/index.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Hover moradito/styles.css",
+		"/C/Users/Bego/Desktop/WEB/AnimatedHeaderBackgrounds/index3.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hover con engine/estilos.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hover con engine/index.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hamburguesa a x/index.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hamburguesa a x/estilos.css",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/bootstrap.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hamburguesa a x/js/Jquery.js",
+		"/C/Users/Bego/Desktop/WEB/jQuery/Leccion - 03/leccion03.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hamburguesa a x/js/scripts.js",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hamburguesa a x/Jquery.js",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hover que sube/estilos.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/Hover effects/Efecto hover que sube/index.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/css/layout1.sass",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/Biohuacal.html",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/js/functions.js",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/index.html",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/portada.jpg",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/css/style.sass",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/css/fonts.scss",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/css/skeleton.scss",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/Parallax-on-the-Web-DevTips--0.2/css/style.css",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/portada2.jpg",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/rabanos.jpg",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/logo.png",
+		"/C/Users/Bego/Downloads/animate (1).css",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Answer.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Question.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Test.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/User.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Result.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Manager.java",
+		"/C/Users/Bego/Desktop/PetShop.java",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/spinners/index.html",
+		"/C/Users/Bego/Desktop/WEB/before and after try/index.html",
+		"/C/Users/Bego/Desktop/WEB/before and after try/estilos.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/spinners/spinners.css",
+		"/C/Users/Bego/Desktop/WEB/animaciones/DEV-tips/index.html",
+		"/C/Users/Bego/Desktop/WEB/Pagina final concesionarios/style/css/main.css",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/bootstrap.css.map",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/bootstrap.min.css",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/css/img/bgimg-2.jpg",
+		"/C/Users/Bego/Desktop/WEB/Diseño Web tec/Index.html",
+		"/C/Users/Bego/Desktop/greensock-js/docs.html",
+		"/C/Users/Bego/Desktop/WEB/Proyecto Udemy/index.html",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Posicion2.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/JugadorGato.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Pet.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Product.java",
+		"/C/Users/Bego/Desktop/WEB/Proyecto Udemy/js/modernizr-custom.js",
+		"/C/Users/Bego/Desktop/WEB/Proyecto Udemy/css/normalize.css",
+		"/C/Users/Bego/Downloads/modernizr-custom.js",
+		"/C/Users/Bego/Desktop/WEB/jQuery/BigBox Notification/js/lib/BigBox.js",
+		"/C/Users/Bego/Desktop/WEB/jQuery/BigBox Notification/index.html",
+		"/C/Users/Bego/Desktop/WEB/jQuery/BigBox Notification/css/style.css",
+		"/C/Users/Bego/Desktop/WEB/jQuery/BigBox Notification/Proyecto 5.JPG",
+		"/C/Users/Bego/Desktop/basededatos.php",
+		"/C/xampp/htdocs/phpsandbox/website2/server-info.php",
+		"/C/xampp/htdocs/phpsandbox/get_post.php",
+		"/C/xampp/htdocs/phpsandbox/website2/index.php",
+		"/C/xampp/htdocs/phpsandbox/website1/about.php",
+		"/C/xampp/htdocs/phpsandbox/website1/contact.php",
+		"/C/xampp/htdocs/phpsandbox/website1/index.php",
+		"/C/xampp/htdocs/phpsandbox/website1/inc/header.php",
+		"/C/xampp/htdocs/phpsandbox/website1/inc/footer.php",
+		"/C/xampp/htdocs/phpsandbox/arreglos.php",
+		"/C/xampp/htdocs/phpsandbox/loops.php",
+		"/C/xampp/htdocs/phpsandbox/functions.php",
+		"/C/xampp/htdocs/phpsandbox/date.php",
+		"/C/xampp/htdocs/phpsandbox/conditionals.php",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Laberinto2.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Jugador.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Gato.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Tablero.java",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Bego/Documents/Tareas Tec/primer semestre/Progra/Fundamentos/3 parcial progra/alumnosjuanca.java",
+		"/C/Users/Bego/Documents/Tareas Tec/primer semestre/Progra/Fundamentos/nombre.java",
+		"/C/Users/Bego/Desktop/bego.java",
+		"/C/Users/Bego/Documents/Tareas Tec/primer semestre/Progra/Fundamentos/abi.java",
+		"/C/Users/Bego/Documents/Tareas Tec/segundo semestre/poo/Punto Linea/punto.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Posicion.java",
+		"/C/Users/Bego/Desktop/POO 3 SEMESTRE/Laberinto7.java",
+		"/C/Users/Bego/Downloads/animate.css",
+		"/C/Users/Bego/Desktop/Queue.java",
+		"/C/Users/Bego/Desktop/Fecha.java",
+		"/C/Users/Bego/Desktop/TareaUsuario.java",
+		"/C/Users/Bego/Desktop/RegistersSet.java",
+		"/C/Users/Bego/Desktop/greensock-js/getting_started.html",
+		"/C/Users/Bego/Desktop/pagina.html",
+		"/C/Users/Bego/Desktop/demo1.html",
+		"/C/Users/Bego/Desktop/WEB/website-master/index.html",
+		"/C/Users/Bego/Desktop/website-master/index.html",
+		"/C/Users/Bego/Downloads/matrizbego (6).java",
+		"/C/Users/Bego/Desktop/Posicion2.java",
+		"/C/Users/Bego/Desktop/Laberinto2.java",
+		"/C/Users/Bego/Desktop/Gato.java",
+		"/C/Users/Bego/Downloads/matrizbego (7).java",
+		"/C/Users/Bego/Desktop/clases web/demo1.html",
+		"/C/Users/Bego/Documents/Demos/MvcMovies/wwwroot/index.html",
+		"/C/Users/Bego/Desktop/Laberinto.java",
+		"/C/Users/Bego/Desktop/Jugador.java",
+		"/C/Users/Bego/Desktop/Posicion.java",
+		"/C/Users/Bego/Documents/Tareas Tec/segundo semestre/poo/examen/Tweet.java",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal Verano/js/Laberinto7.java",
+		"/C/Users/Bego/Desktop/WEB/Biohuacal-master/index.html",
+		"/C/Users/Bego/Documents/Tareas Tec/segundo semestre/poo/POO2/poo/PrincipalTarea.java",
+		"/C/Users/Bego/Documents/Tareas Tec/segundo semestre/poo/POO2/poo/Principal.java",
+		"/C/Users/Bego/Documents/Tareas Tec/segundo semestre/poo/POO2/poo/Tweet.java"
+	],
+	"find":
+	{
+		"height": 100.0
+	},
+	"find_in_files":
+	{
+		"height": 260.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subm",
+			"f_id",
+			"rgba",
+			"portfolio",
+			"catalogo\t",
+			"container",
+			".bg",
+			"mercado",
+			"hover-opacity",
+			"hover",
+			"W3",
+			"w3",
+			"listen",
+			"Jugador",
+			"Posicion",
+			"getJugador",
+			"flipIn",
+			"flip",
+			"CARGAR ",
+			"a{",
+			"a",
+			"HOME",
+			"ALGUNOS DE NUESTRSO",
+			"bgimg-1",
+			"LOAD MORE",
+			"CONTACT",
+			"portfolio",
+			"parallax3",
+			"w3-large",
+			"w3-large\t",
+			"br",
+			"bg-img",
+			"large",
+			"pregunta10",
+			"i",
+			"note",
+			"NOTE",
+			"img",
+			"rig-img",
+			"rig-overlay",
+			"hola",
+			"a",
+			".jpg",
+			".JPG",
+			"red",
+			"transform",
+			"transorm",
+			".page",
+			".li",
+			"li",
+			"a",
+			".a",
+			".contact",
+			"a",
+			"contact",
+			".text-center",
+			"text-center",
+			".col",
+			".col-lg",
+			".container",
+			".box",
+			":before",
+			"#about",
+			".about",
+			"#home",
+			"header.jpg",
+			"li",
+			"header.jpg",
+			"i",
+			".rig",
+			"wrong variable",
+			";\n",
+			" public static final int HALT = 3;",
+			";\n",
+			"buttom",
+			"re",
+			"toString",
+			">\n",
+			"toupp",
+			"barcos",
+			"}"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3009,
+								3009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 898.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6787,
+								6787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Bego/Desktop/ColorChooser/src/colorchooser/ColorChooser.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4787,
+								4787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10398.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "biohuaca_sitio_171106.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30368056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30368056,
+								30368056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 49424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Bego/Desktop/WEB/bases de datos/ejemplo perros",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1088,
+								1009
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1",
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 819.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/autos2/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/autos2/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Generating public/private rsa key pair.",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/BiohuacalPhp/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1596,
+								1596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 524.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/xampp/htdocs/BiohuacalPhp/update.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1950,
+								1969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/xampp/htdocs/autos2/create.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1905,
+								1905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/BiohuacalPhp/create.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1542,
+								1542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAgEA5dW91dZcQRRJKl",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/Bego/Desktop/WEB/jQuery/cambio de colores/js/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "estilos.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 74.0
+	},
+	"input":
+	{
+		"height": 89.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 69.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 180.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Bego\\Desktop\\Laberinto.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 656.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

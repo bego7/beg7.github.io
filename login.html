@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/estilos.css">
+  <link rel="apple-touch-icon" sizes="57x57" href="css/img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="css/img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="css/img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="css/img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="css/img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="css/img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="css/img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="css/img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="css/img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="css/img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="css/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="css/img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="css/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="css/img/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <script src="js/lib/jquery-2.1.4.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico" rel="stylesheet">
+
+  <style>
+  /* Full-width input fields */
+  input[type=text], input[type=password],input[type=email] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+
+  /* Set a style for all buttons */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+  }
+
+  /* Extra styles for the cancel button */
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+  }
+
+  /* Float cancel and signup buttons and add an equal width */
+  .cancelbtn,.signupbtn {
+    display: block;
+    /*: left;*/
+    width: 20%;
+    margin-left: 6%;
+  }
+
+  /* Add padding to container elements */
+  .container {
+    padding: 16px;
+  }
+
+  /* Clear floats */
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .correito{
+    margin-top: 20px;
+  }
+  #cancelar{
+    background-color: #c8c3cc;
+  }
+  #registrarse{
+    background-color:#563f46 ;
+  }
+  .container{
+
+  }
+  /* Change styles for cancel button and signup button on extra small screens */
+  @media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+     width: 100%;
+   }
+ }
+</style>
+</head>
+
+<title>Biohuacal</title>
+
+<body>
+  <div class="container-fluid fondo-login">
+    <div class="espacio"></div>
+    <div class="formato">
+      <p>Regístrate</p>
+      <form action="/action_page.php" >
+        <div class="container">
+          <label id="correito"><b>Email</b></label>
+          <input type="email" placeholder="Email" name="email" required>
+
+          <label><b>Contraseña</b></label>
+          <input type="password" placeholder="Contraseña" name="psw" required>
+
+          <label><b>Repetir contraseña</b></label>
+          <input type="password" placeholder="Repetir contraseña" name="psw-repeat" required>
+          <input type="checkbox" checked="checked"> Recúerdame
+
+          <div class="clearfix">
+            <button type="submit" class="signupbtn" id="registrarse">Registrarse</button>
+            <button type="button" class="cancelbtn" id="cancelar">Cancelar</button>
+            
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>  
+
+</body>

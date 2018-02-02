@@ -1,0 +1,164 @@
+body{
+    background: #484f4f; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #484f4f ,  #8ca3a3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #484f4f,  #8ca3a3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #484f4f,  #8ca3a3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #484f4f ,  #8ca3a3); /* Standard syntax */
+    padding:0;
+    margin:0;
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    position: absolute;
+    left:40%;
+    top:0%;
+}
+
+@media screen and (min-width: 949px){
+    #mainContainer{
+    background-color: white; 
+    position: absolute;
+    width: 35%;
+    left:calc(50% + 5px);
+    top:20%;
+    height:500px;"  
+    }
+
+    #regresar{
+    color:white;
+    position:absolute;
+    left:calc(45% - 330px);
+    top:5%;   
+    cursor: pointer;
+}
+
+    i{
+    position: absolute;
+    /*left:calc(45% - 379px);*/
+    top:3%; 
+    cursor: pointer;
+    }  
+
+
+}
+
+@media screen and (min-width: 950px) {
+    #fondo{
+    background-image: url('img/suculentas3.jpg');
+    background-repeat: no-repeat;  
+   
+    position: absolute; 
+    width: 35%;
+    left:calc(15%);
+    top:20%;
+    height:500px
+
+
+}
+
+i{
+    position: absolute;
+    /*left:calc(45% - 379px);*/
+    top:3%; 
+    /*animation: animacion infinite ease-in-out;*/
+    -webkit-animation-name: animacion; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: animacion;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+    cursor: pointer;
+}
+@-webkit-keyframes animacion {
+    0% { left: calc(45% - 370px); }
+    50% { left:calc(45% - 380px); }
+    75% { left: calc(45% - 375px); }
+}
+@-o-keyframes animacion {
+    from { left: calc(45% - 370px); }
+    to { left:calc(45% - 379px); }
+}
+@-moz-keyframes animacion {
+    from { left: calc(45% - 370px); }
+    to { left:calc(45% - 379px); }
+}
+@keyframes animacion {
+    from { left: calc(45% - 370px); }
+    to { left:calc(45% - 379px); }
+}
+ #regresar{
+    color:white;
+    position:absolute;
+    left:calc(45% - 330px);
+    top:5%;   
+    cursor: pointer;
+}   
+}
+/*desktop size*/
+input[type=text], input[type=password],input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #8ca3a3;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #8ca3a3;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn,.signupbtn {
+    /*float: left;*/
+    width: 50%;
+    margin-left: 25%;
+    display: block;
+
+}
+
+/* Add padding to container elements */
+.container {
+    padding: 16px;
+}
+
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.registrate{
+    background-color: #8ca3a3;
+}
+.cancelar{
+     background-color:#8ca3a3;
+}
+
+
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+   }
+}

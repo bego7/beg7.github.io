@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  padding: 0;
+}
+html{
+  width:100%;
+  height:100%
+  background: #563f46; /* For browsers that do not support gradients */
+  background-color: -webkit-linear-gradient(left, #563f46 ,#c8c3cc); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #563f46,  #c8c3cc); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #563f46,  #c8c3cc); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #563f46 ,  #c8c3cc); /* Standard syntax */
+}
+.espacio{
+  position: absolute;
+  left:10%;
+  top:20%;
+  width:500px;
+  height:600px;
+  background-image: url("img/suculentas2.jpg");
+  background-repeat: no-repeat;
+}
+div{
+   width:10%;
+  height:10%;
+  background: #563f46; /* For browsers that do not support gradients */
+  background-color: -webkit-linear-gradient(left, #563f46 ,#c8c3cc); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #563f46,  #c8c3cc); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #563f46,  #c8c3cc); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #563f46 ,  #c8c3cc);
+}
